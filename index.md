@@ -34,7 +34,7 @@ And run 'make workshop-check' *before* committing to make sure that changes are 
 <p id="registration" align="center">
   <strong>
 	  <font size="36">
-	  <a href="www.google.com" target="_blank">Click Here to Register</a>
+	  <a href="https://ttc.iss.lsa.umich.edu/ttc/sessions/software-carpentry-workshop-shell-r-git-7/" target="_blank">Click Here to Register</a>
 	  </font>
   </strong>
 </p>
